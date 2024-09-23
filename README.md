@@ -1,2 +1,2 @@
 # learn-git
-first time to practice GIT 
+学习GIT使用
